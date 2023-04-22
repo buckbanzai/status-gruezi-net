@@ -1,16 +1,11 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: buckbanzai
+repo: status-gruezi-net
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Mastodon Web UI
+    url: https://mastodon.gruezi.net
+  - name: gruezi.net Landing Page
+    url: https://gruezi.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,6 +21,3 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
