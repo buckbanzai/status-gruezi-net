@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.gruezi.net.ico",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 252,
-    "timeDay": 310,
-    "timeWeek": 252,
-    "timeMonth": 252,
-    "timeYear": 252,
-    "dailyMinutesDown": {
-      "2023-05-03": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 245,
+    "timeDay": 240,
+    "timeWeek": 254,
+    "timeMonth": 245,
+    "timeYear": 245,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mastodon CDN (Media & Files)",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.gruezi.net.ico",
     "slug": "mastodon-cdn-media-and-files",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 177,
-    "timeDay": 235,
-    "timeWeek": 179,
-    "timeMonth": 177,
-    "timeYear": 177,
-    "dailyMinutesDown": {
-      "2023-05-03": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 172,
+    "timeDay": 170,
+    "timeWeek": 182,
+    "timeMonth": 172,
+    "timeYear": 172,
+    "dailyMinutesDown": {}
   },
   {
     "name": "gruezi.net Landing Page",
@@ -45,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gruezi.net.ico",
     "slug": "gruezi-net-landing-page",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 189,
-    "timeDay": 215,
-    "timeWeek": 188,
-    "timeMonth": 189,
-    "timeYear": 189,
-    "dailyMinutesDown": {
-      "2023-05-03": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 184,
+    "timeDay": 167,
+    "timeWeek": 192,
+    "timeMonth": 184,
+    "timeYear": 184,
+    "dailyMinutesDown": {}
   }
 ]
