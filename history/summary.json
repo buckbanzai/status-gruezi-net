@@ -25,7 +25,7 @@
     "url": "https://files.gruezi.net",
     "icon": "https://icons.duckduckgo.com/ip3/files.gruezi.net.ico",
     "slug": "mastodon-cdn-media-and-files",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 171,
     "timeMonth": 179,
     "timeYear": 183,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-21": 0
+    }
   },
   {
     "name": "gruezi.net Landing Page",
@@ -44,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gruezi.net.ico",
     "slug": "gruezi-net-landing-page",
     "status": "down",
-    "uptime": "96.89%",
+    "uptime": "96.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "60.28%",
-    "uptimeMonth": "90.86%",
-    "uptimeYear": "96.89%",
+    "uptimeWeek": "48.63%",
+    "uptimeMonth": "88.18%",
+    "uptimeYear": "96.01%",
     "time": 188,
     "timeDay": 0,
     "timeWeek": 215,
     "timeMonth": 191,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2023-07-21": 76,
+      "2023-07-21": 1250,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1048
