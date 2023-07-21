@@ -25,19 +25,19 @@
     "url": "https://files.gruezi.net",
     "icon": "https://icons.duckduckgo.com/ip3/files.gruezi.net.ico",
     "slug": "mastodon-cdn-media-and-files",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 183,
-    "timeDay": 138,
-    "timeWeek": 171,
-    "timeMonth": 179,
-    "timeYear": 183,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 184,
+    "timeDay": 178,
+    "timeWeek": 176,
+    "timeMonth": 181,
+    "timeYear": 184,
     "dailyMinutesDown": {
-      "2023-07-21": 0
+      "2023-07-21": 9
     }
   },
   {
@@ -48,8 +48,8 @@
     "status": "down",
     "uptime": "96.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.63%",
-    "uptimeMonth": "88.18%",
+    "uptimeWeek": "48.54%",
+    "uptimeMonth": "88.16%",
     "uptimeYear": "96.01%",
     "time": 188,
     "timeDay": 0,
@@ -57,7 +57,7 @@
     "timeMonth": 191,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2023-07-21": 1250,
+      "2023-07-21": 1259,
       "2023-07-20": 1440,
       "2023-07-19": 1440,
       "2023-07-18": 1048
