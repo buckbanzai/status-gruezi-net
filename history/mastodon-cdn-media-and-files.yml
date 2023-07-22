@@ -1,7 +1,7 @@
 url: https://files.gruezi.net
-status: up
-code: 403
-responseTime: 350
-lastUpdated: 2023-07-21T23:00:40.179Z
+status: down
+code: 502
+responseTime: 45
+lastUpdated: 2023-07-22T06:30:32.993Z
 startTime: Sat Apr 22 2023 17:03:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
