@@ -1,7 +1,7 @@
-url: https://files.gruezi.net
-status: up
-code: 403
-responseTime: 338
-lastUpdated: 2024-05-14T23:00:20.991Z
+url: $CDN_TEST_URL
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-05-15T02:46:34.534Z
 startTime: 2023-04-22T17:03:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
