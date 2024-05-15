@@ -5,9 +5,7 @@ sites:
   - name: Mastodon
     url: https://mastodon.gruezi.net
   - name: Mastodon CDN (Media & Files)
-    url: https://files.gruezi.net
-    expectedStatusCodes:
-      - 403 # CDN should always respond with a 403, as there isn't an index page
+    url: $CDN_TEST_URL
   - name: gruezi.net Landing Page
     url: https://gruezi.net
 
