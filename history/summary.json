@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 360,
-    "timeDay": 442,
-    "timeWeek": 388,
-    "timeMonth": 373,
+    "time": 359,
+    "timeDay": 295,
+    "timeWeek": 381,
+    "timeMonth": 366,
     "timeYear": 388,
     "dailyMinutesDown": {
       "2023-09-02": 79
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 353,
-    "timeDay": 60,
-    "timeWeek": 231,
-    "timeMonth": 295,
+    "timeDay": 342,
+    "timeWeek": 262,
+    "timeMonth": 300,
     "timeYear": 400,
     "dailyMinutesDown": {
       "2023-08-28": 18,
@@ -47,21 +47,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/gruezi.net.ico",
     "slug": "gruezi-net-landing-page",
     "status": "up",
-    "uptime": "97.41%",
+    "uptime": "97.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "99.13%",
     "time": 263,
-    "timeDay": 303,
-    "timeWeek": 268,
-    "timeMonth": 274,
+    "timeDay": 328,
+    "timeWeek": 262,
+    "timeMonth": 277,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2023-09-02": 70,
       "2023-07-30": 191,
-      "2023-07-29": 1440,
-      "2023-07-28": 1440
+      "2023-07-29": 1440
     }
   }
 ]
