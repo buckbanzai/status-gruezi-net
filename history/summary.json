@@ -22,18 +22,20 @@
     "url": "$CDN_TEST_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon-cdn-media-and-files",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 370,
-    "timeDay": 252,
-    "timeWeek": 239,
-    "timeMonth": 233,
-    "timeYear": 349,
-    "dailyMinutesDown": {}
+    "time": 369,
+    "timeDay": 191,
+    "timeWeek": 225,
+    "timeMonth": 230,
+    "timeYear": 348,
+    "dailyMinutesDown": {
+      "2024-12-21": 0
+    }
   },
   {
     "name": "gruezi.net Landing Page",
