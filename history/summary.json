@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 390,
-    "timeDay": 385,
-    "timeWeek": 343,
-    "timeMonth": 372,
+    "timeDay": 216,
+    "timeWeek": 318,
+    "timeMonth": 371,
     "timeYear": 405,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 368,
-    "timeDay": 94,
-    "timeWeek": 208,
+    "timeDay": 382,
+    "timeWeek": 256,
     "timeMonth": 224,
-    "timeYear": 343,
+    "timeYear": 344,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/gruezi.net.ico",
     "slug": "gruezi-net-landing-page",
     "status": "up",
-    "uptime": "98.06%",
+    "uptime": "98.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 281,
-    "timeWeek": 312,
-    "timeMonth": 292,
-    "timeYear": 298,
+    "timeDay": 230,
+    "timeWeek": 298,
+    "timeMonth": 294,
+    "timeYear": 299,
     "dailyMinutesDown": {}
   }
 ]
