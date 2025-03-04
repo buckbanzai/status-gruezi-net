@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
-    "timeDay": 233,
-    "timeWeek": 341,
-    "timeMonth": 342,
+    "timeDay": 416,
+    "timeWeek": 353,
+    "timeMonth": 346,
     "timeYear": 388,
     "dailyMinutesDown": {}
   },
@@ -22,19 +22,19 @@
     "url": "$CDN_TEST_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon-cdn-media-and-files",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 372,
-    "timeWeek": 252,
-    "timeMonth": 223,
+    "timeDay": 345,
+    "timeWeek": 280,
+    "timeMonth": 232,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2025-03-04": 7
+      "2025-03-04": 0
     }
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 285,
-    "timeWeek": 334,
-    "timeMonth": 280,
+    "timeDay": 335,
+    "timeWeek": 319,
+    "timeMonth": 282,
     "timeYear": 295,
     "dailyMinutesDown": {}
   }
