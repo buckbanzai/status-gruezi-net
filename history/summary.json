@@ -22,19 +22,19 @@
     "url": "$CDN_TEST_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon-cdn-media-and-files",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 281,
-    "timeWeek": 214,
-    "timeMonth": 212,
+    "time": 319,
+    "timeDay": 372,
+    "timeWeek": 252,
+    "timeMonth": 223,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2025-03-04": 0
+      "2025-03-04": 7
     }
   },
   {
