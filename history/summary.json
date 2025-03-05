@@ -24,18 +24,16 @@
     "slug": "mastodon-cdn-media-and-files",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 320,
     "timeDay": 364,
     "timeWeek": 294,
     "timeMonth": 238,
     "timeYear": 329,
-    "dailyMinutesDown": {
-      "2025-03-04": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "gruezi.net Landing Page",
