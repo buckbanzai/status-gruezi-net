@@ -6,18 +6,16 @@
     "slug": "mastodon",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 374,
-    "timeDay": 473,
-    "timeWeek": 464,
-    "timeMonth": 431,
+    "timeDay": 459,
+    "timeWeek": 443,
+    "timeMonth": 425,
     "timeYear": 371,
-    "dailyMinutesDown": {
-      "2025-10-13": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mastodon CDN (Media & Files)",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 247,
-    "timeDay": 392,
-    "timeWeek": 201,
-    "timeMonth": 243,
-    "timeYear": 222,
+    "timeDay": 513,
+    "timeWeek": 256,
+    "timeMonth": 253,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
@@ -44,17 +42,15 @@
     "slug": "gruezi-net-landing-page",
     "status": "up",
     "uptime": "98.68%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 232,
-    "timeWeek": 302,
-    "timeMonth": 304,
+    "timeDay": 291,
+    "timeWeek": 281,
+    "timeMonth": 298,
     "timeYear": 288,
-    "dailyMinutesDown": {
-      "2025-10-13": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
