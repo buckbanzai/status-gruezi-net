@@ -4,19 +4,19 @@
     "url": "https://mastodon.gruezi.net",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.gruezi.net.ico",
     "slug": "mastodon",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 374,
-    "timeDay": 240,
-    "timeWeek": 352,
-    "timeMonth": 389,
+    "timeDay": 303,
+    "timeWeek": 353,
+    "timeMonth": 388,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2025-11-04": 0
+      "2025-11-04": 16
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://gruezi.net",
     "icon": "https://icons.duckduckgo.com/ip3/gruezi.net.ico",
     "slug": "gruezi-net-landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "98.71%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 207,
-    "timeWeek": 277,
-    "timeMonth": 286,
-    "timeYear": 289,
+    "timeDay": 202,
+    "timeWeek": 268,
+    "timeMonth": 284,
+    "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-11-04": 0
+      "2025-11-04": 16
     }
   }
 ]
