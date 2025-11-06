@@ -4,9 +4,9 @@
     "url": "https://mastodon.gruezi.net",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.gruezi.net.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 403,
     "timeYear": 372,
     "dailyMinutesDown": {
+      "2025-11-06": 0,
       "2025-11-04": 16
     }
   },
@@ -42,9 +43,9 @@
     "url": "https://gruezi.net",
     "icon": "https://icons.duckduckgo.com/ip3/gruezi.net.ico",
     "slug": "gruezi-net-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -54,6 +55,7 @@
     "timeMonth": 300,
     "timeYear": 289,
     "dailyMinutesDown": {
+      "2025-11-06": 0,
       "2025-11-04": 16
     }
   }
