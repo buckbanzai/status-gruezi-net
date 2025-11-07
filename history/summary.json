@@ -6,17 +6,16 @@
     "slug": "mastodon",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 376,
-    "timeDay": 509,
-    "timeWeek": 448,
-    "timeMonth": 405,
-    "timeYear": 372,
+    "timeDay": 533,
+    "timeWeek": 454,
+    "timeMonth": 408,
+    "timeYear": 373,
     "dailyMinutesDown": {
-      "2025-11-06": 10,
       "2025-11-04": 16
     }
   },
@@ -32,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 188,
-    "timeWeek": 217,
-    "timeMonth": 259,
-    "timeYear": 225,
+    "timeDay": 285,
+    "timeWeek": 241,
+    "timeMonth": 264,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   },
   {
@@ -45,17 +44,16 @@
     "slug": "gruezi-net-landing-page",
     "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 439,
-    "timeWeek": 347,
+    "timeDay": 400,
+    "timeWeek": 351,
     "timeMonth": 303,
     "timeYear": 290,
     "dailyMinutesDown": {
-      "2025-11-06": 10,
       "2025-11-04": 16
     }
   }
