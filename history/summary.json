@@ -42,18 +42,19 @@
     "url": "https://gruezi.net",
     "icon": "https://icons.duckduckgo.com/ip3/gruezi.net.ico",
     "slug": "gruezi-net-landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 294,
+    "time": 295,
     "timeDay": 336,
     "timeWeek": 358,
     "timeMonth": 311,
     "timeYear": 290,
     "dailyMinutesDown": {
+      "2025-11-23": 0,
       "2025-11-04": 16
     }
   }
