@@ -4,7 +4,7 @@
     "url": "https://mastodon.gruezi.net",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.gruezi.net.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 412,
     "timeYear": 394,
     "dailyMinutesDown": {
+      "2026-05-03": 0,
       "2025-11-23": 15,
       "2025-11-04": 16
     }
