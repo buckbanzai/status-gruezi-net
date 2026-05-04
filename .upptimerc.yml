@@ -6,6 +6,9 @@ sites:
     url: https://mastodon.gruezi.net
   - name: Mastodon CDN (Media & Files)
     url: $CDN_TEST_URL
+  - name: Mastodon Cron (Periodic Cleanups)
+    url: $CRON_STATUS_URL
+    __dangerous__body_down_if_text_missing: '"status": "up"'
   - name: gruezi.net Landing Page
     url: https://gruezi.net
 
