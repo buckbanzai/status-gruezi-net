@@ -1,7 +1,7 @@
 url: $CRON_STATUS_URL
 status: down
 code: 200
-responseTime: 703
-lastUpdated: 2026-11-12T23:00:42.703Z
+responseTime: 846
+lastUpdated: 2026-11-13T23:01:20.939Z
 startTime: 2026-05-04T17:09:38.034Z
 generator: Upptime <https://github.com/upptime/upptime>
